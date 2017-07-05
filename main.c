@@ -8,6 +8,6 @@ int main()
 	printf("정수를 입력하시오 :");
 	scanf("%d", &n);
 	temp = sum(n);
-	printf("%d" , temp);;
+	printf("%d\n" , temp);
 	return 0;
 }
