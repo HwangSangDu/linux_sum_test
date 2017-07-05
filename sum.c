@@ -5,6 +5,6 @@ int sum(int n)
 {
 	int sum = 0 , i ;
 	for (i = 0; i < n; ++i)
-		sum += n;
+		sum += i;
 	return sum;
 }
